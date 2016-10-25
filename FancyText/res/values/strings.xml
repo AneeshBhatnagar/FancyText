@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fancy Text</string>
+    <string name="action_settings">Settings</string>
+	<string name="Buttonval">Style my Text</string>
+	<string name="radio1">Mixed Style</string>
+	<string name="radio2">Fancy Text Style 1</string>
+	<string name="radio3">Fancy Text Style 2</string>
+	<string name="radio4">Fancy Text Style 3</string>
+	<string name="radio5">Fancy Text with numbers</string>
+	<string name="eTHint">Enter your text here</string>
+	
+</resources>
